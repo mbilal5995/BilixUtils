@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BilixUtils/static/css/main.0ebc7792.css",
-    "main.js": "/BilixUtils/static/js/main.c5ca13e9.js",
+    "main.js": "/BilixUtils/static/js/main.922aef7a.js",
     "static/js/787.26c490dc.chunk.js": "/BilixUtils/static/js/787.26c490dc.chunk.js",
     "index.html": "/BilixUtils/index.html",
     "main.0ebc7792.css.map": "/BilixUtils/static/css/main.0ebc7792.css.map",
-    "main.c5ca13e9.js.map": "/BilixUtils/static/js/main.c5ca13e9.js.map",
+    "main.922aef7a.js.map": "/BilixUtils/static/js/main.922aef7a.js.map",
     "787.26c490dc.chunk.js.map": "/BilixUtils/static/js/787.26c490dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ebc7792.css",
-    "static/js/main.c5ca13e9.js"
+    "static/js/main.922aef7a.js"
   ]
 }
