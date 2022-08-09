@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/BilixUtils/static/css/main.0ebc7792.css",
-    "main.js": "/BilixUtils/static/js/main.52727767.js",
-    "static/js/787.26c490dc.chunk.js": "/BilixUtils/static/js/787.26c490dc.chunk.js",
-    "index.html": "/BilixUtils/index.html",
-    "main.0ebc7792.css.map": "/BilixUtils/static/css/main.0ebc7792.css.map",
-    "main.52727767.js.map": "/BilixUtils/static/js/main.52727767.js.map",
-    "787.26c490dc.chunk.js.map": "/BilixUtils/static/js/787.26c490dc.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.0ebc7792.css",
-    "static/js/main.52727767.js"
-  ]
+  "main.css": "/BilixUtils/static/css/main.2bd48032.chunk.css",
+  "main.js": "/BilixUtils/static/js/main.be8cc597.chunk.js",
+  "main.js.map": "/BilixUtils/static/js/main.be8cc597.chunk.js.map",
+  "static/js/1.97af9aab.chunk.js": "/BilixUtils/static/js/1.97af9aab.chunk.js",
+  "static/js/1.97af9aab.chunk.js.map": "/BilixUtils/static/js/1.97af9aab.chunk.js.map",
+  "static/js/2.680ca318.chunk.js": "/BilixUtils/static/js/2.680ca318.chunk.js",
+  "static/js/2.680ca318.chunk.js.map": "/BilixUtils/static/js/2.680ca318.chunk.js.map",
+  "runtime~main.js": "/BilixUtils/static/js/runtime~main.9acfb4d6.js",
+  "runtime~main.js.map": "/BilixUtils/static/js/runtime~main.9acfb4d6.js.map",
+  "static/css/main.2bd48032.chunk.css.map": "/BilixUtils/static/css/main.2bd48032.chunk.css.map",
+  "index.html": "/BilixUtils/index.html",
+  "precache-manifest.20fa6473a259ff1f42d9cd6720602192.js": "/BilixUtils/precache-manifest.20fa6473a259ff1f42d9cd6720602192.js",
+  "service-worker.js": "/BilixUtils/service-worker.js"
 }
