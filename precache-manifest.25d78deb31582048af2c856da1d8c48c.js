@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "be8cc597e74b381807c6",
+    "revision": "f909c9892c65b98cf127",
     "url": "/BilixUtils/static/css/main.2bd48032.chunk.css"
   },
   {
-    "revision": "be8cc597e74b381807c6",
-    "url": "/BilixUtils/static/js/main.be8cc597.chunk.js"
+    "revision": "f909c9892c65b98cf127",
+    "url": "/BilixUtils/static/js/main.f909c989.chunk.js"
   },
   {
     "revision": "97af9aaba510c3e4c76e",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/BilixUtils/static/js/runtime~main.9acfb4d6.js"
   },
   {
-    "revision": "ae7eb540ed3151ca53c1a27b0d0044c7",
+    "revision": "8e2aa7a2acd94628dc4819337d9024cc",
     "url": "/BilixUtils/index.html"
   }
 ];
